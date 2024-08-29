@@ -1,4 +1,4 @@
-# The fastest way to get recursively all children of an element in the DOM
-There are several ways to get element descendants, but fancy does not mean efficient, old does not mean inefficient
+# The fastest way to retrieve recursively all text nodes containing a substring
+The best approach to get all child text nodes of an HTML element
 
-Source code described in https://marian-caikovski.medium.com/the-fastest-way-to-get-recursively-all-children-of-an-element-in-the-dom-cf5e3cf29677
+Source code described in https://marian-caikovski.medium.com/the-fastest-way-to-retrieve-recursively-all-text-nodes-containing-a-substring-f2bfabc1f2e0
